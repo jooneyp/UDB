@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UmmDeliciousBook</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string-array 
+	    name = "nutrient">
+	    <item>Select it</item>
+	    <item>Vitamin A</item>
+	    <item>Vitamin B</item>
+	    <item>Vitamin C</item>
+	    <item>Vitamin D</item>
+	    <item>Vitamin E</item>
+	    <item>Vitamin F</item>
+	    <item>Vitamin K</item>
+	    <item>Vitamin U</item>
+	    <item>Vitamin L</item>
+	    <item>Vitamin P</item>
+	    
+	    
+	</string-array>
+</resources>
