@@ -46,6 +46,7 @@ public class MainActivity extends Activity{
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		initialize(getApplicationContext());
 		startActivity(new Intent(this, Loading.class));
 		
 		Button btn_refri = (Button) findViewById(R.id.refrigerator);
